@@ -60,6 +60,6 @@
             android:background="@drawable/circular_button"
             android:text="+"
             android:textColor="@color/white"
-            android:textSize="25sp" />
+            android:textSize="34sp" />
     </FrameLayout>
 </LinearLayout>
